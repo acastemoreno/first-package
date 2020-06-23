@@ -1,1 +1,0 @@
-{"version":3,"file":"index.mjs","sources":["../src/index.js"],"sourcesContent":["const hello = (name) => {\n  return `Hello ${name}`;\n};\n\nexport { hello };\n"],"names":["hello","name"],"mappings":"AAAMA,IAAAA,EAAQ,SAACC,GACb,eAAgBA"}

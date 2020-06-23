@@ -1,1 +1,0 @@
-{"version":3,"file":"index.modern.js","sources":["../src/index.js"],"sourcesContent":["const hello = (name) => {\n  return `Hello ${name}`;\n};\n\nexport { hello };\n"],"names":["hello","name"],"mappings":"AAAMA,MAAAA,EAASC,GACL,SAAQA"}
