@@ -1,6 +1,6 @@
 {
   "name": "@acastemoreno/first-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "My First package",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
@@ -10,6 +10,7 @@
     "build": "microbundle",
     "dev": "microbundle watch"
   },
+  "homepage": "https://github.com/acastemoreno/first-package#readme",
   "keywords": [
     "codeable"
   ],
