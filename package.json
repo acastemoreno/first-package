@@ -6,7 +6,10 @@
   "umd:main": "dist/index.umd.js",
   "module": "dist/index.mjs",
   "source": "src/index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
   "keywords": [
     "codeable"
   ],
@@ -17,5 +20,7 @@
   "author": "acastemoreno <acastemoreno@gmail.com>",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "microbundle": "^0.12.2"
+  }
 }

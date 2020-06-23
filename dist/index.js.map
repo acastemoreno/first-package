@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["const hello = (name) => {\n  return `Hello ${name}`;\n};\n\nexport { hello };\n"],"names":["name"],"mappings":"cAAc,SAACA,GACb,eAAgBA"}
