@@ -1,0 +1,21 @@
+{
+  "name": "@acastemoreno/first-package",
+  "version": "0.0.1",
+  "description": "My First package",
+  "main": "dist/index.js",
+  "umd:main": "dist/index.umd.js",
+  "module": "dist/index.mjs",
+  "source": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "codeable"
+  ],
+  "repository": {
+    "url": "https://github.com/acastemoreno/first-package",
+    "type": "git"
+  },
+  "author": "acastemoreno <acastemoreno@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
